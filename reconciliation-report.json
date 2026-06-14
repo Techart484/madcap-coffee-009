@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-06-14T00:47:51.278Z",
+  "overallConfidence": 0,
+  "integrityScore": 0,
+  "discrepancies": [
+    {
+      "field": "title",
+      "confidence": 0,
+      "matched": false,
+      "primary": "",
+      "secondary": "Madcap Coffee &ndash; Madcap Coffee Company",
+      "note": "title: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "description",
+      "confidence": 0,
+      "matched": false,
+      "primary": "",
+      "secondary": "Madcap Coffee exists to reveal the craftsmanship and human connection behind every cup, transforming a daily ritual into something more intentional. Based in Michigan, we roast and serve specialty coffee in Grand Rapids and Detroit while partnering with cafes, restaurants, and markets through our wholesale program.",
+      "note": "description: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "navLinks",
+      "confidence": 0,
+      "matched": false,
+      "primary": [],
+      "secondary": [
+        "LOGIN",
+        "Register Now",
+        "0"
+      ],
+      "note": "navLinks: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "productDescriptions",
+      "confidence": 0,
+      "matched": false,
+      "primary": [],
+      "secondary": [
+        "ORDER DETAILS",
+        "COFFEES ON THE MENU",
+        "BREWING GEAR",
+        "APPAREL",
+        "STAY CONNECTED — FOR THOUGHTFUL UPDATES, NEW RELEASES, AND A CLOSER LOOK AT WHAT WE'RE BUILDING."
+      ],
+      "note": "productDescriptions: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "prices",
+      "confidence": 0,
+      "matched": false,
+      "primary": [],
+      "secondary": [
+        "€12,95",
+        "€170,95",
+        "€179,95",
+        "€172,95",
+        "€11,95",
+        "€131,95",
+        "€163,95",
+        "€9,95",
+        "€105,95",
+        "€16,95",
+        "€96,95",
+        "€69,95",
+        "€28,95",
+        "€35,95",
+        "€438,95",
+        "€1.315,95",
+        "€614,95",
+        "€877,95",
+        "€37,95",
+        "€26,95",
+        "€18,95",
+        "€14,95",
+        "€55,95",
+        "€0,00",
+        "€19,95",
+        "€122,95",
+        "€132,95",
+        "€136,95",
+        "€13,95"
+      ],
+      "note": "prices: weak agreement (0.00) — flagged"
+    }
+  ],
+  "matches": [],
+  "primarySource": "firecrawl.v2",
+  "secondarySource": "lightscraper.fetch"
+}
