@@ -1,0 +1,75 @@
+{
+  "deploymentId": "dpl_cfeae949",
+  "projectName": "madcap-coffee-2026",
+  "framework": "Pure HTML/CSS",
+  "language": "HTML",
+  "stagingUrl": "https://madcap-coffee-2026-cfeae949.vercel.app",
+  "inspectorUrl": "https://vercel.com/awde/madcap-coffee-2026/deployments/cfeae949",
+  "deployedAt": "2026-06-14T00:48:04.492Z",
+  "modules": [
+    {
+      "id": "mod_9bee8c93",
+      "slug": "products",
+      "displayName": "Products",
+      "itemCount": 0,
+      "fields": [
+        {
+          "slug": "name",
+          "name": "Name",
+          "type": "PlainText"
+        },
+        {
+          "slug": "description",
+          "name": "Description",
+          "type": "RichText"
+        },
+        {
+          "slug": "features",
+          "name": "Features",
+          "type": "RichText"
+        }
+      ]
+    },
+    {
+      "id": "mod_535e9809",
+      "slug": "sections",
+      "displayName": "Page Sections",
+      "itemCount": 0,
+      "fields": [
+        {
+          "slug": "kind",
+          "name": "Kind",
+          "type": "Option"
+        },
+        {
+          "slug": "title",
+          "name": "Title",
+          "type": "PlainText"
+        },
+        {
+          "slug": "summary",
+          "name": "Summary",
+          "type": "RichText"
+        }
+      ]
+    },
+    {
+      "id": "mod_cb078334",
+      "slug": "nav-links",
+      "displayName": "Nav Links",
+      "itemCount": 0,
+      "fields": [
+        {
+          "slug": "label",
+          "name": "Label",
+          "type": "PlainText"
+        },
+        {
+          "slug": "order",
+          "name": "Order",
+          "type": "Number"
+        }
+      ]
+    }
+  ]
+}
