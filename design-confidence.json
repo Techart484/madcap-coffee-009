@@ -1,0 +1,27 @@
+{
+  "overall": 0.867,
+  "modules": [
+    {
+      "module": "Products",
+      "score": 1,
+      "notes": [
+        "no products detected"
+      ]
+    },
+    {
+      "module": "Features",
+      "score": 1,
+      "notes": [
+        "no sections detected"
+      ]
+    },
+    {
+      "module": "Nav",
+      "score": 0.6,
+      "notes": [
+        "no navigation links detected — using inferred routes"
+      ]
+    }
+  ],
+  "passedThreshold": false
+}
